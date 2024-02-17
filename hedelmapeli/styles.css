@@ -1,0 +1,224 @@
+body{ 
+    background-image: url("img/tausta.avif");
+}
+@keyframes clickAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.otsikko{
+    position: absolute;
+    width: 60%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.click-animation {
+    animation: clickAnimation 0.2s;
+    scale: 1.2;
+}
+.click-animation2 {
+    animation: clickAnimation 0.2s;
+    scale: 1;
+}
+.bet1{
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 5%;
+    width: 12%;
+}
+.bet2{
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 18%;
+    width: 12%;
+}
+.bet3{
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 31%;
+    width: 12%;
+}
+.bet5{
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 44%;
+    width: 12%;
+}
+.maxbet{
+    position: absolute;
+    margin-top: 38%;
+    margin-left: 57%;
+    width: 12%;
+}
+.rahat{
+    position: absolute;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1vw;
+    margin-top: 21%;
+    margin-left: 51.5%;
+    text-align: center;
+}
+.taulukko{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 68%;
+}
+.seiska{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 8.75%;
+}
+.kirsikka{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 8.75%;
+}
+.bar{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 8.75%;
+}
+.bar2{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 8.75%;
+}
+.kello{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 8.75%;
+}
+
+.seiska7{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 18.75%;
+}
+.kirsikka7{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 18.75%;
+}
+.bar7{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 18.75%;
+}
+.bar27{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 18.75%;
+}
+.kello7{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 18.75%;
+}
+
+.seiska8{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 28.75%;
+}
+.kirsikka8{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 28.75%;
+}
+.bar8{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 28.75%;
+}
+.bar28{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 28.75%;
+}
+.kello8{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 28.75%;
+}
+
+.seiska9{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 38.75%;
+}
+.kirsikka9{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 38.75%;
+}
+.bar9{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 38.75%;
+}
+.bar29{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 38.75%;
+}
+.kello9{
+    display: none;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 38.75%;
+}
+.lukitse1{
+    position: absolute;
+    margin-left: 8.85%;
+    width: 5%;
+    margin-top: 28%;
+}
+.lukitse2{
+    position: absolute;
+    margin-left: 18.85%;
+    width: 5%;
+    margin-top: 28%;
+}
+.lukitse3{
+    position: absolute;
+    margin-left: 28.85%;
+    width: 5%;
+    margin-top: 28%;
+}
+.lukitse4{
+    position: absolute;
+    margin-left: 38.85%;
+    width: 5%;
+    margin-top: 28%;
+}
+.pyorita{
+    position: absolute;
+    margin-left: 49%;
+    margin-top: 22.5%;
+    width: 15%;
+}
